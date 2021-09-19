@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
         items.add("Banana");
         items.add("Peach");
         items.add("Kiwi");
+        items.add("Pear");
 
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
